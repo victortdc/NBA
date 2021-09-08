@@ -1,0 +1,4 @@
+#Mon Mar 18 19:18:04 ART 2019
+base.0=/Users/fml/Documents/mcses/r-native/projects/xxx/nba_app/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
